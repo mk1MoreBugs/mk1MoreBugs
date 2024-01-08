@@ -1,24 +1,27 @@
 # About Me
-In 2022, I took courses in Python and SQL. Now I am a 2nd year master's student at KubSU. Since January 2023, I have been studying the topic of Android development using documentation and examples on github. I try to put theoretical experience into practice.
+I am a student at Kuban State University, Krasnodar. I have been studying Python since 2022 and Android development since February 2023.
 
 # My stack
 - Kotlin
-- Room
 - Jetpack Compose
+- Room
 - Python
 
 
-# Pet-projects
-- ### [FinApp](https://github.com/mk1MoreBugs/finApp)
-   Mobile application for monitoring the user’s actual and planned expenses and income. The following stack were used: Kotlin, Coroutines, Room, Jetpack Compose.
+# Mobile projects
+- ### [FinApp](https://github.com/mk1MoreBugs/finApp) \[Kotlin, Jetpack Compose, Room, ViewModel\]
+   _Mobile application for monitoring the user’s actual and planned expenses and income. The following stack were used: Kotlin, Coroutines, Room, Jetpack Compose._
+  
+# Backend projects
+\[planned\]
 
+# ML and data analysis
+### [fashionMNIST](https://github.com/mk1MoreBugs/fashionMNIST)
+  _ML homework_
 
 # Other projects
 - ### [algorithms](https://github.com/mk1MoreBugs/algorithms)
   _repository with  tasks on algorithms_
-
-- ### [fashionMNIST](https://github.com/mk1MoreBugs/fashionMNIST)
-  _ML homework_
 
 
 
