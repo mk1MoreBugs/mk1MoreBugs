@@ -54,6 +54,11 @@ I am a student at Kuban State University, Krasnodar. I have been studying Python
   and using **Stegano** library ([Stegano_+_Tkinter branch](https://github.com/mk1MoreBugs/2lab_LSB/tree/Stegano_%2B_Tkinter))._
 
 
+# Top Languages Card
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk1MoreBugs&layout=compact&exclude_repo=SmartTravel)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mk1MoreBugs)
