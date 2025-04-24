@@ -1,19 +1,24 @@
 # About Me
-I am a student at Kuban State University, Krasnodar. I have been studying Python since 2022 and Android development since 2023.
+Hi! I am a junior backend developer. I have been studying Python since 2022 and Android development since 2023.
 
 # My stack
 ### Languages
-- Kotlin
 - Python
+- Kotlin
+- SQL
   
 ### Mobile development
 - Android
 - Jetpack Compose
-- Room
   
-### Web devepment
+### Backend devepment
+- Docker, Docker-Compose
 - FastAPI
-- SQLAlchemy
+- SQLAlchemy, SQLModel, Alembic
+- Linux
+- PostgreSQL
+- Redis
+
 
 ### ML and data analysis
 - NumPy
@@ -30,6 +35,9 @@ I am a student at Kuban State University, Krasnodar. I have been studying Python
 - ### [Private clinic](https://github.com/mk1MoreBugs/private_clinic) \[Python, FastAPI, SQLAlchemy, Kotlin/JS, Ktor client, Kvision\]
   _Admin panel for managing a private clinic and tracking financial indicators._
 
+- ### [Service note \[in development\]](https://github.com/mk1MoreBugs/wrbmj/tree/dev) \[Python, FastAPI, SQLModel, Redis, PostgreSQL, Websockets, JS, Vue\]
+  _Service for creating and editing notes._
+
 
 ## ML and data analysis labs
 - ### [Credit Card Customers](https://github.com/mk1MoreBugs/1lab_data_analysis/blob/main/1lab.ipynb) [python, numpy, pandas, pyplot, seaborn]
@@ -43,8 +51,6 @@ I am a student at Kuban State University, Krasnodar. I have been studying Python
  
 
 # Other projects
-- ### [algorithms](https://github.com/mk1MoreBugs/algorithms)
-  _repository with  tasks on algorithms_
   
 - ### [RSA lab](https://github.com/mk1MoreBugs/algorithms)
   _The RCA algorithm is being implemented for educational purposes._
@@ -52,11 +58,14 @@ I am a student at Kuban State University, Krasnodar. I have been studying Python
 - ### [Least Significant Bit (LSB) lab](https://github.com/mk1MoreBugs/2lab_LSB/)
   _The LSB algorithm is implemented manually ([default_code branch](https://github.com/mk1MoreBugs/2lab_LSB/tree/default_code))
   and using **Stegano** library ([Stegano_+_Tkinter branch](https://github.com/mk1MoreBugs/2lab_LSB/tree/Stegano_%2B_Tkinter))._
+  
+- ### [algorithms](https://github.com/mk1MoreBugs/algorithms)
+  _repository with  tasks on algorithms_
 
 
 # Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk1MoreBugs&layout=compact&exclude_repo=SmartTravel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk1MoreBugs&layout=normal&exclude_repo=SmartTravel&hide_border=true&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Contacts
