@@ -37,6 +37,8 @@ Hi! I am a junior backend developer. I have been studying Python since 2022 and 
 
 - ### [Service note \[in development\]](https://github.com/mk1MoreBugs/wrbmj/tree/dev) \[Python, FastAPI, SQLModel, Redis, PostgreSQL, Websockets, JS, Vue\]
   _Service for creating and editing notes._
+- ### [Helper bot](https://github.com/mk1MoreBugs/helper_bot) \[Python, aiogram, Request, APScheduler\]
+  _Assistant bot that displays motivational quotes or weather information in the city._
 
 
 ## ML and data analysis labs
